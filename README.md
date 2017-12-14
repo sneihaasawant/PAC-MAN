@@ -1,12 +1,12 @@
 # PAC-MAN
-( jQuery and HTML )
+( Jvascript and HTML )
 
 **Scope:**
 Single player game where "PacMan" can eat coins and earn points. Use keyboard arrow key to move up,down and left-right . Play and Enjoy !!!
 
 ## Environment : 
 ```
-jQuery
+Javascript
 HTML
 ```
 

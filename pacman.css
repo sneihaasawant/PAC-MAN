@@ -1,0 +1,42 @@
+*{
+    margin: 0px auto;
+    padding: 0px ;
+}
+
+#wrapper{
+  height:300px;
+  width:300px;
+  border: 1px dotted black;
+  display: block;
+}
+
+.floor{
+  height:30px;
+  width:30px;
+  background-color: black;
+  display: inline-block;
+  margin-bottom:-4px;
+}
+
+.wall{
+  height:30px;
+  width:30px;
+  background-color: #2a1660;
+  display: inline-block;
+  margin-bottom: -4px;
+}
+
+.floor img{
+  height:10px;
+  width:10px;
+  display: inline-block;
+  margin:8px;
+}
+
+/*.pacman{
+  height:30px;
+  width:30px;
+  display:inline-block;
+  margin:0px;*/
+
+/*}*/
